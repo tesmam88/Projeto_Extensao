@@ -1,0 +1,19 @@
+body{
+    background-color: aquamarine;
+    padding: auto;
+    align-items: center;
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+}
+
+a{
+    background-color: brown;
+    padding: 10px;
+}
+
+input{
+    padding: 10px;
+}
